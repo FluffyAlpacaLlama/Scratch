@@ -136,11 +136,37 @@ p.p-left {
 }
 
 .header {
-	padding: 10px;
+	padding: 15px;
 	text-align: center;
 	
 	
 }
+#left {
+		font-family: 'Trebuchet MS', sans-serif;
+		font-size: 8pt;
+		line-height: 1.25em;
+		height: 100%;
+		left: 0;
+		padding: 15px 15px;
+		top: 0;
+		width: 15%;
+		
+	}
+
+		#left > * {
+			flex-shrink: 0;
+			width: 100%;
+		}
+
+		#left > .first {
+			flex-grow: 1;
+			margin: 0 0 2em 0;
+		}
+
+		#left strong, #left b {
+			color: #ffffff;
+		}
+		
 	
 	
 	
