@@ -77,6 +77,10 @@ img{
   flex: 30%;
   max-width:30%;
   margin: 15px;
+  font-size: 12pt;
+  font-weight:normal;
+  color: rgba(255, 255, 255, 0.8);
+  text-align: left;
 }
 
 .column img {
