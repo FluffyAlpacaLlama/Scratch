@@ -154,7 +154,7 @@ p.p-left {
 						display: none;
 					}
 
-				#header > .inner {
+				#header > .left {
 					margin-bottom: 0;
 				}
 
@@ -326,16 +326,6 @@ p.p-left {
 					padding: 2.25em 0 0 0;
 				}
 
-		/* Poptrox */
-
-			.poptrox-popup {
-				border-radius: 0;
-			}
-
-				.poptrox-popup .nav-next:before,
-				.poptrox-popup .nav-previous:before {
-					margin-top: -1em;
-				}
 
 	}
 
