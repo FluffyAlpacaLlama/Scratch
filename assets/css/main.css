@@ -73,6 +73,13 @@ img{
   align-content: space-between;
 }
 
+.row2 {
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 0px;
+  align-content: space-between;
+}
+
 .column {
   flex: 30%;
   max-width:30%;
@@ -98,6 +105,18 @@ img{
 	max-width : 100%
   }
 }
+
+section {
+	margin: 15px;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	font-size: 12pt;
+  font-weight:normal;
+  color: rgba(255, 255, 255, 0.8);
+  text-align: left;}
 
 
 
